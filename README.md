@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 4th-year Software Engineering student at ENIB (École Nationale d'Ingénieurs de Brest), specializing in:<br><br>🌐 Full-Stack Development (Web & Mobile)<br>🤖 Artificial Intelligence & Machine Learning<br>🎮 Virtual & Augmented Reality (VR/AR)<br>🔧 Embedded Systems & Robotics
+I'm a 4th-year Software Engineering student at ENIB (École Nationale d'Ingénieurs de Brest), specializing in:<br><br>🤖 Artificial Intelligence & Machine Learning<br>🎮 Virtual & Augmented Reality (VR/AR)<br>🌐 Full-Stack Development (Web & Mobile)<br>🔧 Embedded Systems & Robotics
 
 
 ## 🌐 Socials:
@@ -13,6 +13,40 @@ I'm a 4th-year Software Engineering student at ENIB (École Nationale d'Ingénie
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyoub-Boulahri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+
+## 📜 Certifications
+
+- 🏆 **TOEIC Listening & Reading (860/990)** - TOEIC (January 2026)
+- 💻 **Advanced OOP & Generic Programming in C++** - Packt (January 2026)
+- 🐍 **Python for Data Science, AI & Development** - IBM (December 2025)
+- 🎓 **Introduction to Data Science** - Cisco (May 2025)
+- 🛡️ **Prévention Sup'** - INRS France (February 2025)
+- 🇬🇧 **EF SET C1 Advanced (62/100)** - EF SET (July 2024)
+- 🧩 **Problem Solving Certificate** - HackerRank (April 2024)
+- ⚡ **JavaScript Certificate** - HackerRank (April 2024)
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 **French** - Fluent
+- 🇬🇧 **English** - Fluent
+- 🇪🇸 **Spanish** - Beginner
+- 🇲🇦 **Arabic** - Native
+
+---
+
+# 🎯 Interests
+
+- 🏀 Basketball
+- 🎮 Video Games
+- 💻 LeetCode Challenges
+- 🤖 Robotics
+
+- ---
+
+
 [![](https://visitcount.itsvg.in/api?id=Ayyoub-Boulahri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
