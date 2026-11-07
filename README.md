@@ -17,40 +17,25 @@
 
 ---
 
-<table>
-<tr><td>
+### 🗺️ My Journey So Far
 
-### 🧬 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 
-🔩 Currently building **digital twins** at **CEA-List** with NVIDIA Omniverse & USD
+🔩 **Now** — Building **digital twins** at **CEA-List** with NVIDIA Omniverse & USD pipelines
 
-🧪 Previously at **CEA** — in-situ visualization for HPC simulations *(ParaView Catalyst · SENSEI · ADIOS2)*
+🧪 Built in-situ visualization layers for **HPC simulations** at **CEA** *(ParaView Catalyst · SENSEI · ADIOS2 · MPI)*
 
-🥽 Worked on the **MASCARET** project at **CERV** — VR/AR multi-agent simulations + built a RAG model
+🥽 Worked on the **MASCARET** project at **CERV**, VR/AR multi-agent simulations with SysMl V2 + RAG model
 
-📱 Mobile dev experience at **MedYouln** with Flutter & Laravel
+📱 Mobile dev at **MedYouln** with Flutter & Laravel
 
-🧠 Diving into **Isaac Sim & Isaac Lab** for robotics simulation
+<br clear="right"/>
 
-🛠️ Side-building **code visualization tools** and **AI-powered dev tools**
+### 🔭 What's Next
 
-</td><td>
-
-### 🌍 Languages
-
-| | Language | Level |
-|---|---|---|
-| 🇲🇦 | Arabic | Native |
-| 🇫🇷 | French | Fluent |
-| 🇬🇧 | English | Fluent |
-| 🇪🇸 | Spanish | Beginner |
-
-### 🏀 Outside of Code
-
-Basketball · Video Games · LeetCode · Robotics
-
-</td></tr>
-</table>
+🧠 Going deeper into **Isaac Sim & Isaac Lab** for robotics simulation  
+🛠️ Building **code visualization tools** and **AI-powered dev tools** on the side  
+🎯 Graduating from **ENIB** in 2027 — looking for what comes after
 
 ---
 
@@ -149,6 +134,22 @@ Basketball · Video Games · LeetCode · Robotics
 ![HackerRank](https://img.shields.io/badge/Problem_Solving_%26_JS-HackerRank-2EC866?style=for-the-badge&labelColor=1a1b27)
 
 </div>
+
+---
+
+### 🌍 I Speak
+
+![Arabic](https://img.shields.io/badge/🇲🇦_Arabic-Native-58A6FF?style=flat-square&labelColor=1a1b27)
+![French](https://img.shields.io/badge/🇫🇷_French-Fluent-58A6FF?style=flat-square&labelColor=1a1b27)
+![English](https://img.shields.io/badge/🇬🇧_English-Fluent-58A6FF?style=flat-square&labelColor=1a1b27)
+![Spanish](https://img.shields.io/badge/🇪🇸_Spanish-Beginner-58A6FF?style=flat-square&labelColor=1a1b27)
+
+### 🏀 Outside of Code
+
+![Basketball](https://img.shields.io/badge/-Basketball-FF6723?style=flat-square)
+![Video Games](https://img.shields.io/badge/-Video_Games-8B5CF6?style=flat-square)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square)
+![Robotics](https://img.shields.io/badge/-Robotics-00979D?style=flat-square)
 
 ---
 
